@@ -9,4 +9,8 @@ print your last name, then print your first name at the bottom.
 
 void main() {
   // write your code here
+  String firstName = "Maxkambek";
+  String familiya = "Xolbekov";
+  print(familiya);
+  print(firstName);
 }
